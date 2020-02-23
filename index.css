@@ -355,7 +355,7 @@ body {
 }
 
 .socials {
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-decoration: none;
   margin: 3vh 0px !important;
 }
